@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+
+
+    </head>
+
+
+
+    <body>
+
+        <div id="header" class="section">
+
+            <img alt="" class="img-circle" src="https://img4.goodfon.com/wallpaper/nbig/1/2b/warhammer-40-000-death-guard-mortarion-nurgle-plague.jpg">
+
+            <p>My blog</p>
+
+        </div>
+
+        <div class="section">
+
+            <h1><span>About Me</span></h1>
+
+            <p>
+
+                Hello my name is <strong>Joris V. Meisner </strong>. My Hobbies are: Table-top wargames, pen and paper, playing video games with my buddies. But I've learned a lot from <a href="http://www.sololearn.com"><strong>Sololearn</strong></a>. There i learned how to make this blog.
+
+            </p>
+
+            <p class="quote">"In the embrace of great Nurgle, I am no longer afraid, for with His pestilential favour I have become that which I once feared: Death."
+
+
+
+— Kulvain Hestarius of the Death Guard</p>
+
+        </div>
+
+        <div class="section">
+
+            <h1><span>My Gaming Schedule</span></h1>
+
+            <table>
+
+                <tr>
+
+                    <th>Day</th>
+
+                    <th>Mon</th>
+
+                    <th>Tue</th>
+
+                    <th>Wed</th>
+
+                    <th>Thu</th>
+
+                    <th>Fri</th>
+
+                </tr>
+
+                <tr>
+
+                    <td>18-23</td>
+
+                    <td class="selected">Destiny 2</td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td></td>
+
+                </tr>
+
+                <tr>
+
+                    <td>18-23</td>
+
+                    <td></td>
+
+                    <td class="selected">Warhammer 40k</td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td></td>
+
+                </tr>
+
+                <tr>
+
+                    <td>18-23</td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td class="selected">Destiny 2</td>
+
+                    <td></td>
+
+                    <td></td>
+
+                </tr>
+
+                <tr>
+
+                    <td>18-23</td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td class="selected">Destiny 2</td>
+
+                    <td></td>
+
+                </tr>
+
+                <tr>
+
+                    <td>18-23</td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td></td>
+
+                    <td class="selected">Warhammer 40k</td>
+
+                </tr>
+
+            </table>
+
+        </div>
+
+        <div class="section">
+
+            <h1><span>My abilities</span></h1>
+
+            <ul>
+
+                <li>Tactical and critical thinking <br />
+
+                    <progress min="0" max="100" value="66"></progress>
+
+                </li>
+
+                <li>Lazyness <br />
+
+                    <progress min="0" max="100" value="50"></progress>
+
+                </li>
+
+                <li>Ability too blow up my allies with explosive barrels <br />
+
+                    <progress min="0" max="100" value="100"></progress>
+
+                </li>
+
+            </ul>
+
+        </div>
+
+        <div class="section">
+
+            <h1><span>My Media</span></h1>
+
+            <iframe height="150" width="300" src="https://www.youtube.com/embed/Q6_5InVJZ88" allowfullscreen frameborder="0"></iframe>
+
+        </div>
+
+       <div class="section">
+
+            <h1><span>Contact Me</span></h1>
+
+
+
+            <form>
+
+                <input name="name" placeholder="Name" type="text" required /><br/>
+
+                <input name="email" placeholder="Email" type="email" required /><br/>
+
+                <textarea name="message" placeholder="Type Your Message" required ></textarea>
+
+                <input type="submit" value="SEND" class="submit" />
+
+            </form>
+
+        </div>
+
+        <div class="section" id="contacts">
+
+            <h1><span>Follow Me (accept for twitter)</span></h1>
+
+            <div>
+
+                <a href="http://www.sololearn.com/Profile/8705638" target="_blank">
+
+                    <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
+
+                </a>
+
+                <a href="http://www.facebook.com/kshottie82">
+
+                    <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png"/>
+
+                </a>
+
+                <a href="http://www.twitter.com/lecrishab">
+
+                    <img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
+
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="copyright">
+
+            &copy; 2020 The Blog of Joris V. Meisner. All rights reserved.
+
+        </div>
+
+
+
+    </body>
+
+</html>
